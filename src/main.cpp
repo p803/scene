@@ -32,6 +32,8 @@
  * @todo Compare callable in matrix.
  * @todo Extract transmissive, diffusive and emissive materials.
  * @todo Decorate texture with filterable texture.
+ * @todo Add dependency manager.
+ * @todo Save and export scene to json file.
  */
 int main(int argc, char *argv[])
 {
